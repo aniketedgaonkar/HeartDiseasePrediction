@@ -9,4 +9,5 @@ Python and Python Libraries: For model creation and prediction.<br>
 Data Sources: Utilized heart data from Excel file to derive meaningful insights.
 ## Project Insights 
 This project aims to predict the likelihood of heart disease based on various health parameters.<br>
-The dataset includes features such as age, cholesterol levels, blood pressure, and more. Logistic Regression was implemented as the primary model for classification, providing insights into the risk of heart disease.
+The dataset includes features such as age, cholesterol levels, blood pressure, and more.
+<br>Logistic Regression was implemented as the primary model for classification, providing insights into the risk of heart disease.
